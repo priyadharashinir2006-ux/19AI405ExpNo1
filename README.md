@@ -89,8 +89,6 @@ class MedicinePrescribingAgent:
             time.sleep(1)
 
         print(f"Final Performance Score: {self.performance}")
-
-# ------------------ MAIN PROGRAM ------------------ #
 if _name_ == "_main_":
     agent = MedicinePrescribingAgent()
     agent.run()
