@@ -40,6 +40,7 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
 ```
 import random
 import time
@@ -92,9 +93,11 @@ class MedicinePrescribingAgent:
 if _name_ == "_main_":
     agent = MedicinePrescribingAgent()
     agent.run()
-    ```
-    # OUTPUT 
-    <img width="655" height="490" alt="Screenshot 2025-09-25 234347" src="https://github.com/user-attachments/assets/f4a6ad79-96fe-4509-a246-0421782c7039" />
-    <img width="601" height="218" alt="Screenshot 2025-09-25 234359" src="https://github.com/user-attachments/assets/b2b0167e-95ff-4048-b5d8-8148d5e9d7e2" />
+    
+```
+
+# OUTPUT 
+<img width="655" height="490" alt="Screenshot 2025-09-25 234347" src="https://github.com/user-attachments/assets/f4a6ad79-96fe-4509-a246-0421782c7039" />
+<img width="601" height="218" alt="Screenshot 2025-09-25 234359" src="https://github.com/user-attachments/assets/b2b0167e-95ff-4048-b5d8-8148d5e9d7e2" />
 
 
